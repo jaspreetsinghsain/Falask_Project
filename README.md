@@ -41,4 +41,4 @@ This is a Flask project for displaying data from a SQLite database via a website
 
 - Visit [http://localhost:5000/](http://localhost:5000/) in your web browser to access the home page.
 - Click on the "About" link to view information about the project.
-- Click on the "Data" link to view the data displayed on the website.
+- Click on the "Data" link to view the data displayed on the website..
